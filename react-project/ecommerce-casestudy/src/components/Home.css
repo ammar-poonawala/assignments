@@ -1,0 +1,15 @@
+.vertical-menu {
+  width: 150px; 
+  margin-left: 0px;
+  margin-top: 0px; 
+margin-bottom: 0%;
+
+}
+.vertical-menu li {
+  background-color: #eee; /* Grey background color */
+  color: black; /* Black text color */
+  display: block; /* Make the links appear below each other */
+  padding: 12px; /* Add some padding */
+  text-decoration: none; /* Remove underline from links */
+  border:1px solid grey;
+}
